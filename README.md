@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Antonio!
+# Hi there 👋, I'm Antonio!
 
 <!--
 **golden-state0fmind/golden-state0fmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As an experienced Software Developer, I bring a strong commitment to teamwork and a positive attitude to every project. I thrive on solving complex challenges and am dedicated to creating innovative software that not only enhances people's lives but also makes a meaningful and positive impact. 
 
 - 🌱 I’m currently learning Systems Design
 - 🔭 I’m currently working in a private repo
