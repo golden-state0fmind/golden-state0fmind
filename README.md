@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Antonio!
 
 <!--
 **golden-state0fmind/golden-state0fmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Systems Design
+- 🔭 I’m currently working in a private repo
+- 👯 I’m looking to collaborate in a hackathon in the near future 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golden-state0fmind&layout=compact&show_icons=true&theme=radical)
 
 [![golden-state0fmind's GitHub stats](https://github-readme-stats.vercel.app/api?username=golden-state0fmind&show_icons=true&theme=radical)](https://github.com/golden-state0fmind/github-readme-stats)
