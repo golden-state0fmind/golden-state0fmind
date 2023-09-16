@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golden-state0fmind&layout=compact)
+
+[![golden-state0fmind's GitHub stats](https://github-readme-stats.vercel.app/api?username=golden-state0fmind&show_icons=true&theme=radical)](https://github.com/golden-state0fmind/github-readme-stats)
