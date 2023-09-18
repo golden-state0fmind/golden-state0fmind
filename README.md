@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As an experienced Software Developer, I bring a strong commitment to teamwork and a positive attitude to every project. I thrive on solving complex challenges and am dedicated to creating innovative software that not only enhances people's lives but also makes a meaningful and positive impact. 
+As an experienced Software Developer, I bring a strong commitment to teamwork and a positive attitude to every project. I thrive on solving complex challenges and am dedicated to creating innovative software that not only enhances people's lives but also makes a meaningful and positive impact.
 
 - 🌱 I’m currently learning Systems Design
 - 🔭 I’m currently working in a private repo
